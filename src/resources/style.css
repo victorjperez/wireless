@@ -77,11 +77,16 @@ button:hover {
 .react-pdf__Document {
   display: flex;
   justify-content: center;
+  width: 100%;
+  background-color: white;
 }
 .react-pdf__Page {
   margin: 0;
 }
 
+.pdf-view {
+  background-color: goldenrod;
+}
 footer {
   background-color: goldenrod;
   font-size: 1.5em;

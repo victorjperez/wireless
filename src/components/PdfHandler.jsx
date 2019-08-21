@@ -23,10 +23,10 @@ function PdfHandler() {
         </div>
     );}
     else if (quality === 'high'){
-        return(<React.Fragment><PageViewer pdf={pdfHigh} /><footer><button onClick={() => setQuality('')}>Home</button></footer></React.Fragment>);
+        return(<div className={"pdf-view"}><PageViewer pdf={pdfHigh} /><footer><button onClick={() => setQuality('')}>Home</button></footer></div>);
     }
     else if (quality === 'low'){
-        return(<React.Fragment><PageViewer pdf={pdfLow} /><footer><button onClick={() => setQuality('')}>Home</button></footer></React.Fragment>);
+        return(<div className={"pdf-view"}><PageViewer pdf={pdfLow} /><footer><button onClick={() => setQuality('')}>Home</button></footer></div>);
     }
     else {
         return(<p>Error loading pdf.</p>);
