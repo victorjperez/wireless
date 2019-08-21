@@ -23,8 +23,8 @@ class PageViewer extends Component {
     pageNumber: prevState.pageNumber + offset,
   }));
 
-  previousPage = () => this.changePage(-1);
-
+  previousSinglePage = () => this.changePage(-1);
+  previousDoublePage = () => this.changePage(-2);
   nextSinglePage = () => this.changePage(1);
   nextDoublePage = () => this.changePage(2);
   
@@ -47,13 +47,22 @@ class PageViewer extends Component {
            {pageNumber || (numPages ? 1 : '--')} / {numPages || '--'}
 
           </h1>
-          <button
+          {pageNumber === 1 ? 
+          (<button
             type="button"
             disabled={pageNumber <= 1}
-            onClick={this.previousPage}
+            onClick={this.previousSinglePage}
           >
             Previous
-          </button>
+          </button>) :
+          (<button
+            type="button"
+            disabled={pageNumber <= 1}
+            onClick={this.previousDoublePage}
+          >
+            Previous
+          </button>)}
+
           {pageNumber === 1 ? 
           (<button
             type="button"
