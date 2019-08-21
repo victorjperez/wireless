@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f27e4bea8fe4413511a36b5b5bee8ea6",
+    "revision": "47d03e6a3bbaabf53cd35182388b9191",
     "url": "/wireless/index.html"
   },
   {
