@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/wireless/static/css/main.d5602e30.chunk.css",
-    "main.js": "/wireless/static/js/main.3290a7f7.chunk.js",
-    "main.js.map": "/wireless/static/js/main.3290a7f7.chunk.js.map",
+    "main.js": "/wireless/static/js/main.de4a97bc.chunk.js",
+    "main.js.map": "/wireless/static/js/main.de4a97bc.chunk.js.map",
     "runtime~main.js": "/wireless/static/js/runtime~main.d74efc3e.js",
     "runtime~main.js.map": "/wireless/static/js/runtime~main.d74efc3e.js.map",
     "static/js/2.b13ab0e4.chunk.js": "/wireless/static/js/2.b13ab0e4.chunk.js",
     "static/js/2.b13ab0e4.chunk.js.map": "/wireless/static/js/2.b13ab0e4.chunk.js.map",
     "index.html": "/wireless/index.html",
-    "precache-manifest.3f694fd99becd1faa94680ad50cf5c4a.js": "/wireless/precache-manifest.3f694fd99becd1faa94680ad50cf5c4a.js",
+    "precache-manifest.45052fcd5ac3090e33ed388181244117.js": "/wireless/precache-manifest.45052fcd5ac3090e33ed388181244117.js",
     "service-worker.js": "/wireless/service-worker.js",
     "static/css/main.d5602e30.chunk.css.map": "/wireless/static/css/main.d5602e30.chunk.css.map",
     "static/media/logo.svg": "/wireless/static/media/logo.5d5d9eef.svg",
     "static/media/wirelesslogo.svg": "/wireless/static/media/wirelesslogo.bcaba2fb.svg",
-    "static/media/zine_hq.pdf": "/wireless/static/media/zine_hq.9cb31743.pdf",
+    "static/media/zine_hq.pdf": "/wireless/static/media/zine_hq.c425f1f8.pdf",
     "static/media/zine_lq.pdf": "/wireless/static/media/zine_lq.0f316068.pdf"
   }
 }
