@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47d03e6a3bbaabf53cd35182388b9191",
+    "revision": "51bc68e327292a52d6f70c9ec10a8e7a",
     "url": "/wireless/index.html"
   },
   {
-    "revision": "8267ff8d0f6a61de3604",
+    "revision": "fd3cee1d4016c9093745",
     "url": "/wireless/static/css/main.00b3f4c8.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wireless/static/js/2.b13ab0e4.chunk.js"
   },
   {
-    "revision": "8267ff8d0f6a61de3604",
-    "url": "/wireless/static/js/main.0170198f.chunk.js"
+    "revision": "fd3cee1d4016c9093745",
+    "url": "/wireless/static/js/main.275334a0.chunk.js"
   },
   {
     "revision": "e9f14d519f9ca5a47749",
