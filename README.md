@@ -1,6 +1,6 @@
 ![WIRELESS Logo](https://victorjperez.github.io/wireless/static/media/wirelesslogo.bcaba2fb.svg)
 
-### _The Official Zine Of U92-FM ~ Fall Semester 2019_
+### _The Official Zine of U92-FM ~ Fall Semester 2019_
 
 # About
 This website hosts both high quality and low quality versions of the WIRELESS FALL19 PDF. It was made by Victor Perez using [React](https://reactjs.org/) & [react-pdf](https://www.npmjs.com/package/react-pdf). For more infomation about U92, visit the website at [u92themoose.com](http://u92themoose.com).
